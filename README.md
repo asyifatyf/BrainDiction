@@ -8,7 +8,7 @@
 | Bernadetta Sri Endah          | M2007F0679  |
 | Adnan Fadhil Yaser          | M7297F2538  |
 
-We make decision support prediction model for brain tumor cancer 
+We make decision support prediction model for brain tumor cancer.
 
 ### Built with
 - Python
